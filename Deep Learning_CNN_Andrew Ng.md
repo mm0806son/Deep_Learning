@@ -1,6 +1,6 @@
 # Machine Learning 
 
-## Part 3 CNN
+## Course 4 CNN
 
 by Andrew Ng
 
